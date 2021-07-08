@@ -1,0 +1,7 @@
+@inproceedings{zhang2018structured,
+  title={Structured siamese network for real-time visual tracking},
+  author={Zhang, Yunhua and Wang, Lijun and Qi, Jinqing and Wang, Dong and Feng, Mengyang and Lu, Huchuan},
+  booktitle={Proceedings of the European conference on computer vision (ECCV)},
+  pages={351--366},
+  year={2018}
+}
